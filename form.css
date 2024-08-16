@@ -1,0 +1,49 @@
+label {
+    font-size: 20px;
+    font-family: "Moderustic";
+}
+
+input[type=text] {
+    padding: 20px;
+    width: 100%;
+    border:#fccc9d85;
+    border-style:double;
+    border-radius: 20px;
+    font-family: "Moderustic";
+    font-size: 15px;
+}
+input[type=submit] {
+    cursor: pointer;
+    font-family: "Moderustic";
+}
+
+button { 
+        margin-top: 10px;
+        align-items: center;
+        font-family: "Moderustic";
+        background-color: #fccc9d85;
+        border-radius: 10px;
+        border-style:double;
+        border-color:antiquewhite;
+        cursor: pointer;
+        display: inline-flex;
+        font-size: 22px;
+        font-weight: 500;
+        height: 50px;
+        justify-content: center;
+        max-width: 100%;
+        padding: 4px;
+        position: relative;
+        text-align: center;
+        touch-action: manipulation;
+        margin-right: 40px;
+        margin-left: 40px;
+        color: #cc8132;
+        text-decoration: none;
+        transition-duration: 0.4s;
+      }
+      
+button:hover {
+        background: #fffbf7;
+        transform: scale(1.1);
+    }

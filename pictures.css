@@ -1,0 +1,39 @@
+.image-header {
+    background-image: url("Images/florida.jpg");
+    background-repeat: no-repeat;
+    padding: 80px;
+    width: auto;
+    height: 500px;
+    background-position: auto;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: bisque;
+    
+}
+
+img {
+    display: flex;
+    width: 400px;
+    float: left;
+    margin-right: 20px;
+    border-top:#945513 solid 20px;
+    border-bottom:#945513 solid 20px;
+}
+
+
+ .img2 {
+    float: right;
+    margin-right: -420px;
+    border-top:#945513 solid 20px;
+    border-bottom:#945513 solid 20px;
+ }
+
+
+
+ .img3 {
+    width: 400px;
+    float: left;
+    margin-right: 20px;
+    border-top:#945513 solid 20px;
+    border-bottom:#945513 solid 20px;
+ }
